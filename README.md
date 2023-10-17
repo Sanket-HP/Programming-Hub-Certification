@@ -17,4 +17,6 @@ RDBMS Certification,
 Software Engineering Certification,
 C# Certification,
 TypeScript Certification,
-SEO certification.
+SEO certification,
+Linux Certification,
+AWS Cloud Computing.
